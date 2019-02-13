@@ -1,4 +1,4 @@
 <?php
 
-$username = 'vyg99';
-$password = 'yglovebaby';
+$username = 'tiktok_kr';
+$password = 'tiktok2018@';
